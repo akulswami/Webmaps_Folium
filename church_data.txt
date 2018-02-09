@@ -1,0 +1,17 @@
+ID,Name,Address
+1,First Baptist Church, 945 Main St Van Buren Ar
+2,West Race Baptist Church, 1009 W Race Ave Searcy AR
+3,The paradox church, 330 East 4th Street Fort Worth Texas
+4,103rd St.Baptist Church, 8819 103rd st Jacksonville Florida
+5,103rd Street Church of God, 10356 103rd st Jacksonville Florida
+6,10th & Broad Church of Christ, 1319 10th st wichita falls Texas
+7,11th and willis church of christ, 3309 S 11th st Abilene Texas
+8,11th street church of christ, 513 11th St Dr W Palmetto Florida
+9,12 Gates Baptist Church, 4904 Ramey Ave Fort Worth Texas
+10,12 Stone Church in Flowery, 4259 Martin Rd Flowery Branch Georgia
+11,121 Community Church in Grapevine, 2701 Ira E Woods Ave Grapevine Texas
+12,12 Stone church, 1322 Buford Dr Lawrenceville Georgia
+13,12th Ave Christian Reformed Church, 7581 12th Ave Jenison Michigan
+14,12th street Baptist Church, 2732 W Heverly Dr Portage Michigan
+15,12th street Presbyterian Church,504 E 12th St Alton Illinois
+16,13th Street church of High Springs Florida, 120 NW 13th St High Springs Florida
